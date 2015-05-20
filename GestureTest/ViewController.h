@@ -9,7 +9,12 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
-
+{
+    
+    __weak IBOutlet UIImageView *thirdImageView;
+    __weak IBOutlet UIImageView *secondImageView;
+    __weak IBOutlet UIImageView *firstImageView;
+}
 
 @end
 

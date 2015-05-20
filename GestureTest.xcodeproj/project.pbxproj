@@ -14,6 +14,9 @@
 		4A3A0D1D1B043B270079C0CF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A3A0D1C1B043B270079C0CF /* Images.xcassets */; };
 		4A3A0D201B043B270079C0CF /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4A3A0D1E1B043B270079C0CF /* LaunchScreen.xib */; };
 		4A3A0D2C1B043B280079C0CF /* GestureTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A3A0D2B1B043B280079C0CF /* GestureTestTests.m */; };
+		4A3A0D381B043C060079C0CF /* CyanSquare.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A3A0D351B043C060079C0CF /* CyanSquare.png */; };
+		4A3A0D391B043C060079C0CF /* MagentaSquare.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A3A0D361B043C060079C0CF /* MagentaSquare.png */; };
+		4A3A0D3A1B043C060079C0CF /* YellowSquare.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A3A0D371B043C060079C0CF /* YellowSquare.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +43,9 @@
 		4A3A0D251B043B280079C0CF /* GestureTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GestureTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4A3A0D2A1B043B280079C0CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4A3A0D2B1B043B280079C0CF /* GestureTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GestureTestTests.m; sourceTree = "<group>"; };
+		4A3A0D351B043C060079C0CF /* CyanSquare.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CyanSquare.png; sourceTree = "<group>"; };
+		4A3A0D361B043C060079C0CF /* MagentaSquare.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MagentaSquare.png; sourceTree = "<group>"; };
+		4A3A0D371B043C060079C0CF /* YellowSquare.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = YellowSquare.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +94,9 @@
 				4A3A0D191B043B270079C0CF /* Main.storyboard */,
 				4A3A0D1C1B043B270079C0CF /* Images.xcassets */,
 				4A3A0D1E1B043B270079C0CF /* LaunchScreen.xib */,
+				4A3A0D351B043C060079C0CF /* CyanSquare.png */,
+				4A3A0D361B043C060079C0CF /* MagentaSquare.png */,
+				4A3A0D371B043C060079C0CF /* YellowSquare.png */,
 				4A3A0D0F1B043B270079C0CF /* Supporting Files */,
 			);
 			path = GestureTest;
@@ -200,8 +209,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				4A3A0D1B1B043B270079C0CF /* Main.storyboard in Resources */,
+				4A3A0D381B043C060079C0CF /* CyanSquare.png in Resources */,
 				4A3A0D201B043B270079C0CF /* LaunchScreen.xib in Resources */,
 				4A3A0D1D1B043B270079C0CF /* Images.xcassets in Resources */,
+				4A3A0D3A1B043C060079C0CF /* YellowSquare.png in Resources */,
+				4A3A0D391B043C060079C0CF /* MagentaSquare.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
